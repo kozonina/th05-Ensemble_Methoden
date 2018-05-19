@@ -1,1 +1,1 @@
-# th05-Zellulare_Automaten
+# th05-Ensemble_Methoden
